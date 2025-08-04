@@ -1,0 +1,9 @@
+60,ASP.Net,1000,Web,asp.net
+60,C Progamming,200,Programming,c progamming
+80,C#,600,Programming,c#
+60,Java,800,Programming,java
+80,OOP,300,Programming,oop
+50,Oracle,900,DB,oracle
+30,Photoshop,1200,Design,photoshop
+60,SQL Server,500,DB,sql server
+50,Unix,400,Operating System,unix

@@ -1,0 +1,4 @@
+Crs_Duration,Crs_Name,Crs_id,top_Name,LowerCase_Crs_Name
+20,Win_XP,1100,Operating System,win_xp
+20,Web Service,700,Web,web service
+20,HTML,100,Web,html

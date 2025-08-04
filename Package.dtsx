@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="8/1/2025 2:10:48 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="DESKTOP-Q6GJIVV"
+  DTS:CreatorName="DESKTOP-Q6GJIVV\ISMAIL"
+  DTS:DTSID="{5F26D627-1835-4286-8E40-113C66CABC9C}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5685.0"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{B0FE066B-55A2-44F0-8A13-8A4E6C75A8C9}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-Q6GJIVV]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{B6AB4A18-D913-4DB7-B150-DCCBABBF39FC}"
+      DTS:ObjectName="DESKTOP-Q6GJIVV">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=DESKTOP-Q6GJIVV;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Package-{B6AB4A18-D913-4DB7-B150-DCCBABBF39FC}DESKTOP-Q6GJIVV;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-Q6GJIVV.ITI]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{C9E18751-582F-4B71-B921-D5F076D8CF1E}"
+      DTS:ObjectName="DESKTOP-Q6GJIVV.ITI">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=DESKTOP-Q6GJIVV;Initial Catalog=ITI;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Package-{C9E18751-582F-4B71-B921-D5F076D8CF1E}DESKTOP-Q6GJIVV.ITI;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-Q6GJIVV.Test]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{DC440EC1-615A-4CAA-A4D0-A58D728854B5}"
+      DTS:ObjectName="DESKTOP-Q6GJIVV.Test">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=DESKTOP-Q6GJIVV;Initial Catalog=Test;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Package-{DC440EC1-615A-4CAA-A4D0-A58D728854B5}DESKTOP-Q6GJIVV.Test;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables />
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>

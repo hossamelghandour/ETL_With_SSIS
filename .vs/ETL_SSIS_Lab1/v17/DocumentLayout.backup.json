@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_4.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|solutionrelative:Lab1_4.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_3.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|solutionrelative:Lab1_3.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_1.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|solutionrelative:Lab1_1.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|solutionrelative:Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_2.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|solutionrelative:Lab1_2.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_5_b.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|solutionrelative:Lab1_5_b.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_5.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{928FE0AE-9177-B7F9-F6E6-E8BF6E7758D3}|ETL_SSIS_Lab1.dtproj|solutionrelative:Lab1_5.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab1_3.dtsx [Design]",
+              "DocumentMoniker": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_3.dtsx",
+              "RelativeDocumentMoniker": "Lab1_3.dtsx",
+              "ToolTip": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_3.dtsx [Design]",
+              "RelativeToolTip": "Lab1_3.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-08-01T12:16:02.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab1_5_b.dtsx [Design]",
+              "DocumentMoniker": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_5_b.dtsx",
+              "RelativeDocumentMoniker": "Lab1_5_b.dtsx",
+              "ToolTip": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_5_b.dtsx [Design]",
+              "RelativeToolTip": "Lab1_5_b.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-08-01T13:20:16.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab1_1.dtsx [Design]",
+              "DocumentMoniker": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_1.dtsx",
+              "RelativeDocumentMoniker": "Lab1_1.dtsx",
+              "ToolTip": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_1.dtsx [Design]",
+              "RelativeToolTip": "Lab1_1.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-08-01T11:42:42.609Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab1_2.dtsx [Design]",
+              "DocumentMoniker": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_2.dtsx",
+              "RelativeDocumentMoniker": "Lab1_2.dtsx",
+              "ToolTip": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_2.dtsx [Design]",
+              "RelativeToolTip": "Lab1_2.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-08-01T12:02:24.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Package.dtsx [Design]",
+              "DocumentMoniker": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Package.dtsx",
+              "RelativeDocumentMoniker": "Package.dtsx",
+              "ToolTip": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Package.dtsx [Design]",
+              "RelativeToolTip": "Package.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-08-02T18:02:55.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab1_4.dtsx [Design]",
+              "DocumentMoniker": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_4.dtsx",
+              "RelativeDocumentMoniker": "Lab1_4.dtsx",
+              "ToolTip": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_4.dtsx [Design]",
+              "RelativeToolTip": "Lab1_4.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-08-01T12:50:41.388Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab1_5.dtsx [Design]",
+              "DocumentMoniker": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_5.dtsx",
+              "RelativeDocumentMoniker": "Lab1_5.dtsx",
+              "ToolTip": "F:\\ITI BI\\SQL BI\\Day1\\ETL_SSIS_Lab1\\Lab1_5.dtsx [Design]",
+              "RelativeToolTip": "Lab1_5.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-08-01T13:10:45.44Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
